@@ -169,7 +169,11 @@ const Footer = (prop) => {
               <span>
                 {new Date().getFullYear()} (c) . Built by{' '}
                 <Button target={true} href="http://ep00.epimg.net/rss/tags/ultimas_noticias.xml">
-                  RSS
+                  Matter.
+                </Button>{' '}
+                Powered by{' '}
+                <Button target={true} href="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada">
+                  JAMM.™
                 </Button>
               </span>
             </div>
