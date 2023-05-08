@@ -175,6 +175,9 @@ const Footer = (prop) => {
                 <Button target={true} href="https://jamm.matter.design/">
                   JAMM.™
                 </Button>
+                <Button target={true} href="https://jamm.matter.design/">
+                  RSS
+                </Button>
               </span>
             </div>
           </div>
