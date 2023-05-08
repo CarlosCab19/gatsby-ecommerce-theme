@@ -168,7 +168,7 @@ const Footer = (prop) => {
               </div>
               <span>
                 {new Date().getFullYear()} (c) . Built by{' '}
-                <Button target={true} href="\src\RSS\consulta.xml">
+                <Button target={true} href="http://ep00.epimg.net/rss/tags/ultimas_noticias.xml">
                   RSS
                 </Button>
               </span>
