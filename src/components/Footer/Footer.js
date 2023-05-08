@@ -168,7 +168,7 @@ const Footer = (prop) => {
               </div>
               <span>
                 {new Date().getFullYear()} (c) . Built by{' '}
-                <Button target={true} href="cypress\e2e\Rss\consulta.xml">
+                <Button target={true} href="\src\RSS\consulta.xml">
                   RSS
                 </Button>
               </span>
